@@ -51,7 +51,7 @@ function draw() {
       textAlign(CENTER,CENTER);
       fill('white');
       textSize(100);
-      text("Game Over",500,510);
+      text("Game Over",500,500);
       textSize(20);
       text("Press space to restart",500,570)
       image(img4, 150, 500, 80, 80);
